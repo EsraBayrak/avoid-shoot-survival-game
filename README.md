@@ -1,4 +1,3 @@
-# avoid-shoot-game
 
 # Avoid & Shoot Survival Game
 
